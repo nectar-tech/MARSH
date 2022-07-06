@@ -1,0 +1,83 @@
+{
+    "id": 1,
+    "gameName": "מחלקות בעלי חיים",
+    "gameCode": 101,
+    "isPublished": true,
+    "userID": 2,
+    "gameUser": null,
+    "gameCategories": [
+        {
+            "id": 0,
+            "categoryName": "חרקים",
+            "gameID": 1,
+            "categoryItems": [{"id":0,
+                                "ItemContent":"g1_q0.png",
+                                "IsPicture": "true",
+                                "CategoryID": "0" 
+                               }, 
+                               {"id":1,
+                                "ItemContent":"g1_q5.png",
+                                "IsPicture": "true",
+                                "CategoryID": "0" 
+                               }, {"id":2,
+                                "ItemContent":"g1_q8.png",
+                                "IsPicture": "true",
+                                "CategoryID": "0" 
+                               }
+                               ]
+        },
+        {
+            "id": 1,
+            "categoryName": "עופות",
+            "gameID": 1,
+            "categoryItems": [{"id":3,
+                                "ItemContent":"g1_q2.png",
+                                "IsPicture": "true",
+                                "CategoryID": "1" 
+                               }, 
+                               {"id":4,
+                                "ItemContent":"g1_q3.png",
+                                "IsPicture": "true",
+                                "CategoryID": "1" 
+                               }
+                               ]
+        },
+        {
+            "id": 2,
+            "categoryName": "יונקים",
+            "gameID": 1,
+            "categoryItems": [{"id":5,
+                                "ItemContent":"g1_q4.png",
+                                "IsPicture": "true",
+                                "CategoryID": "2" 
+                               }, 
+                               {"id":6,
+
+                                "ItemContent":"g1_q6.png",
+                                "IsPicture": "true",
+                                "CategoryID": "2" 
+                               }
+                               ]
+        },
+        {
+            "id": 3,
+            "categoryName": "זוחלים",
+            "gameID": 1,
+            "categoryItems": [{"id":7,
+                                "ItemContent":"g1_q1.png",
+                                "IsPicture": "true",
+                                "CategoryID": "3" 
+                               }, 
+                               {"id":8,
+                                "ItemContent":"g1_q7.png",
+                                "IsPicture": "true",
+                                "CategoryID": "3" 
+                               }, {"id":9,
+                                "ItemContent":"g1_q9.png",
+                                "IsPicture": "true",
+                                "CategoryID": "3" 
+                               }
+                               ]
+        }
+    ]
+}
